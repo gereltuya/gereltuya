@@ -1,16 +1,13 @@
-### Hi there 👋
+👩‍🚀 Hi, Gereltuya from Mongolia here 🇲🇳
 
-<!--
-**gereltuya/gereltuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔥 I’m passionate about remote-working, machine learning, maker culture and blogging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👩‍🎓 Currently, I am studying AI and data science for a MSc at [SPbU](https://spbu.ru/)
+
+
+🚀 We, my co-founder [@jargalart](https://github.com/jargalart) and I, are also building [Green Dot](https://greendot.vip/?ref=rm)
+
+
+💚 I go by she/her but do not dislike they/them
