@@ -11,3 +11,5 @@
 
 
 💚 I go by she/her but do not dislike they/them
+
+![Stats](https://github-readme-stats.vercel.app/api?gereltuya=anuraghazra&count_private=true&show_icons=true&theme=transparent)
