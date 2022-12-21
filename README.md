@@ -12,4 +12,4 @@
 
 💚 I go by she/her but do not dislike they/them
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gereltuya&theme=tokyonight)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gereltuya&theme=github_dark)
